@@ -1,0 +1,15 @@
+[submodule "server/RVC"]
+	path = server/RVC
+	url = https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI.git
+[submodule "server/so-vits-svc-40v2"]
+	path = server/so-vits-svc-40v2
+	url = https://github.com/StarStringStudio/so-vits-svc.git
+[submodule "server/so-vits-svc-40"]
+	path = server/so-vits-svc-40
+	url = https://github.com/StarStringStudio/so-vits-svc.git
+[submodule "server/MMVC_Client_v15"]
+	path = server/MMVC_Client_v15
+	url = https://github.com/isletennos/MMVC_Client.git
+[submodule "server/MMVC_Client_v13"]
+	path = server/MMVC_Client_v13
+	url = https://github.com/isletennos/MMVC_Client.git
